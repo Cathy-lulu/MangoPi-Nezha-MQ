@@ -62,7 +62,7 @@ In the overall operating system, the kernel also includes:
 
 - Kernel: rt_smart_kernel.bin
 - Hardware: MangoPi-Nezha MQ
-- RT-Smart Pack: mango_rtsmart_app.zip
+- RT-Smart Pack: [mango_rtsmart_app.zip](https://github.com/RT-Thread/rt-thread)
 
 **Partition**
 
